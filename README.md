@@ -112,6 +112,15 @@ The program displays:
 * Add more training patterns.
 * Develop a graphical user interface.
 * Explore recognition of larger and more complex patterns.
+  ## 📸 Project Screenshots
+
+### Training and Weight Matrix
+
+![Training Output](training_output.png)
+
+### Digit Recognition
+
+![Recognition Output](Digitrecognition_output.png)
 
 ## 👩‍💻 Author
 

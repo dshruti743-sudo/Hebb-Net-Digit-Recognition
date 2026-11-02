@@ -114,13 +114,16 @@ The program displays:
 * Explore recognition of larger and more complex patterns.
   ## 📸 Project Screenshots
 
+## 📸 Project Screenshots
+
 ### Training and Weight Matrix
 
 ![Training Output](training_output.png)
 
 ### Digit Recognition
 
-![Digit Recognition Output](‎Digit Recognition Output.png)
+![Digit Recognition Output](<Digit Recognition Output.png>)
+
 
 ## 👩‍💻 Author
 

@@ -120,7 +120,7 @@ The program displays:
 
 ### Digit Recognition
 
-![Recognition Output](Digitrecognition_output.png)
+![Recognition Output](Digit Recognition Output.png)
 
 ## 👩‍💻 Author
 
